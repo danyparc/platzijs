@@ -3,6 +3,9 @@
 	[
 		{
 			"path": "."
+		},
+		{
+			"path": "/home/danyparc/Escritorio/dev/curso-definitivo-javascript/platzigram-10/platzigram"
 		}
 	]
 }
